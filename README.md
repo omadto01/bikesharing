@@ -1,5 +1,7 @@
 # bikesharing
 
+# bikesharing
+
 **Overview of the statistical analysis:**
 
 - The purpose of the analysis is to create multiple worksheet using the data from bike-sharing NYC Citi Bike and start building a dashboard and creating a story using Tableau. We will then use this as a business proposal to present our findings for the City of Des Moines and stakeholders.
@@ -20,15 +22,17 @@ The two main difference from the Module 14 and the Module 14 Challenge are using
 
 - **Module 14 Challenge - NYC CitiBike results:**
 
-​			[NYC Citi Bike - Challenge | Tableau Public](https://public.tableau.com/app/profile/omar.omadto/viz/NYCCitiBike-Challenge/Story2?publish=yes)
+**Deliverable 1:** https://github.com/omadto01/bikesharing/blob/main/NYC_CitiBike_Challenge.ipynb
 
+**Deliverable 2:** [NYC Citi Bike - Challenge | Tableau Public](https://public.tableau.com/app/profile/omar.omadto/viz/NYCCitiBike-Challenge/Story2?publish=yes)
 
+**Deliverable 3:** [NYC Citi Bike - Challenge | Tableau Public](https://public.tableau.com/app/profile/omar.omadto/viz/NYCCitiBike-Challenge/NYCCitibike?publish=yes)
 
 
 
 **Summary**:
 
-- Our summary findings shows three visualizations found on [NYC Citi Bike - Tripduration | Tableau Public](https://public.tableau.com/app/profile/omar.omadto/viz/NYCCitiBike-Tripduration/NYCCitibike). The first visualization created was a line graphs shows the checkout times by gender. The second visualizations created was a heatmaps, which represent trips gender during weekday per hour. Our final visualizations created was a heatmaps which represent the user trips (Customer & Subscribers) by gender during weekday.
+- Our summary findings shows a total of seven visualizations found on [NYC Citi Bike - Challenge | Tableau Public](https://public.tableau.com/app/profile/omar.omadto/viz/NYCCitiBike-Challenge/NYCCitibike?publish=yes). The first visualization start with Checkout times for Users, using a line graphs. The second one a line graphs shows the checkout times by gender. This line graphs shows 3 different line that showcase the gender. The third visualization shows a heatmaps of trips by weekday for each hour. The fourth one also was a heatmaps categorizes by gender during a weekday per hour. The fifth visualizations is also  a heatmaps by users type (eg. Customer and Subscriber) that showcase between Male, Female and unknown. The sixth one is a map of top starting locations and the last one is the Top Ending locations
 
 
 
