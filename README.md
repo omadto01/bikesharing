@@ -1,6 +1,5 @@
 # bikesharing
 
-# bikesharing
 
 **Overview of the statistical analysis:**
 
